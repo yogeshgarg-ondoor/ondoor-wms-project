@@ -1,3 +1,5 @@
+// hello this is a comment
+
 package com.ondoor.model;
 
 import javax.annotation.Generated;
