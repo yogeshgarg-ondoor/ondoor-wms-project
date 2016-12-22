@@ -11,6 +11,7 @@ public class POStatus {
 	@Generated
 	private Long id;
 	
+	// name variable
 	private String name;
 
 	public Long getId() {
